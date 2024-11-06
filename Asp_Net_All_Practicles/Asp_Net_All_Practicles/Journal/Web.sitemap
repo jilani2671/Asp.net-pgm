@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Default.aspx" title="Home" description="Home Page">
+    <!-- Home Page -->
+    <siteMapNode url="~/Products.aspx" title="Products" description="View all products">
+      <!-- Products Page -->
+      <siteMapNode url="~/ProductDetails.aspx" title="Product Details" description="View product details" />
+    </siteMapNode>
+
+    <!-- Categories -->
+    <siteMapNode url="~/Categories.aspx" title="Categories" description="Browse categories">
+      <siteMapNode url="~/Category.aspx?category=Electronics" title="Electronics" description="Browse electronics">
+        <siteMapNode url="~/Category.aspx?category=MobilePhones" title="Mobile Phones" description="Browse mobile phones" />
+        <siteMapNode url="~/Category.aspx?category=Computers" title="Computers" description="Browse computers" />
+      </siteMapNode>
+      <siteMapNode url="~/Category.aspx?category=Clothing" title="Clothing" description="Browse clothing">
+        <siteMapNode url="~/Category.aspx?category=Men" title="Men" description="Browse men's clothing" />
+        <siteMapNode url="~/Category.aspx?category=Women" title="Women" description="Browse women's clothing" />
+      </siteMapNode>
+    </siteMapNode>
+
+    <!-- User Account -->
+    <siteMapNode url="~/Account/Login.aspx" title="Login" description="User login" />
+    <siteMapNode url="~/Account/Register.aspx" title="Register" description="User registration" />
+    <siteMapNode url="~/Account/Profile.aspx" title="Profile" description="User profile" />
+    <siteMapNode url="~/Account/Orders.aspx" title="Orders" description="View order history" />
+
+    <!-- Shopping Cart -->
+    <siteMapNode url="~/Cart.aspx" title="Shopping Cart" description="View your shopping cart" />
+    <siteMapNode url="~/Checkout.aspx" title="Checkout" description="Checkout process" />
+
+    <!-- Help and Support -->
+    <siteMapNode url="~/Help.aspx" title="Help" description="Help and support">
+      <siteMapNode url="~/Help/FAQ.aspx" title="FAQ" description="Frequently asked questions" />
+      <siteMapNode url="~/Help/Contact.aspx" title="Contact Us" description="Contact us" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

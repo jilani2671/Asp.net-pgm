@@ -1,0 +1,7 @@
+D:\c#\emp\emp\bin\Debug\emp.exe.config
+D:\c#\emp\emp\bin\Debug\emp.exe
+D:\c#\emp\emp\bin\Debug\emp.pdb
+D:\c#\emp\emp\obj\Debug\emp.csproj.AssemblyReference.cache
+D:\c#\emp\emp\obj\Debug\emp.csproj.CoreCompileInputs.cache
+D:\c#\emp\emp\obj\Debug\emp.exe
+D:\c#\emp\emp\obj\Debug\emp.pdb

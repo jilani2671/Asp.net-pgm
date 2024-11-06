@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F349DC9-29C0-468B-9D90-C9063B99B58B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Asp_Net_All_Practicles</RootNamespace>
+    <AssemblyName>Asp_Net_All_Practicles</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\HomeDB.mdf" />
+    <Content Include="App_Data\HomeDB_log.ldf">
+      <DependentUpon>HomeDB.mdf</DependentUpon>
+    </Content>
+    <Content Include="Calender.aspx" />
+    <Content Include="CheckRadio.aspx" />
+    <Content Include="CopyControls.aspx" />
+    <Content Include="DBListView.aspx" />
+    <Content Include="DYP_Data\AddUpDelGridData.aspx" />
+    <Content Include="DYP_Data\AllControls.aspx" />
+    <Content Include="DYP_Data\CRUD.aspx" />
+    <Content Include="DYP_Data\DynamicContent.aspx" />
+    <Content Include="DYP_Data\FetchingData.aspx" />
+    <Content Include="DYP_Data\img\Laptop.jpg" />
+    <Content Include="GettingStudMarks.aspx" />
+    <Content Include="DYP_Data\img\DYP1.jpeg" />
+    <Content Include="DYP_Data\img\Img1.jpg" />
+    <Content Include="Journal\DropAndList.aspx" />
+    <Content Include="Journal\MultiViewAndPanel.aspx" />
+    <Content Include="Journal\Validations.aspx" />
+    <Content Include="Set Image Upload.aspx" />
+    <Content Include="SirPanel.aspx" />
+    <Content Include="DYP_Data\StudentML1.aspx" />
+    <Content Include="StudMarkList.aspx" />
+    <Content Include="StudMS1.aspx" />
+    <Content Include="Timer_LOGIC.aspx" />
+    <Content Include="Trying.aspx" />
+    <Content Include="DYP_Data\ViewStudML1.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calender.aspx.cs">
+      <DependentUpon>Calender.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Calender.aspx.designer.cs">
+      <DependentUpon>Calender.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckRadio.aspx.cs">
+      <DependentUpon>CheckRadio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckRadio.aspx.designer.cs">
+      <DependentUpon>CheckRadio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CopyControls.aspx.cs">
+      <DependentUpon>CopyControls.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CopyControls.aspx.designer.cs">
+      <DependentUpon>CopyControls.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DBListView.aspx.cs">
+      <DependentUpon>DBListView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DBListView.aspx.designer.cs">
+      <DependentUpon>DBListView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\AddUpDelGridData.aspx.cs">
+      <DependentUpon>AddUpDelGridData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\AddUpDelGridData.aspx.designer.cs">
+      <DependentUpon>AddUpDelGridData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\AllControls.aspx.cs">
+      <DependentUpon>AllControls.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\AllControls.aspx.designer.cs">
+      <DependentUpon>AllControls.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\CRUD.aspx.cs">
+      <DependentUpon>CRUD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\CRUD.aspx.designer.cs">
+      <DependentUpon>CRUD.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\DynamicContent.aspx.cs">
+      <DependentUpon>DynamicContent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\DynamicContent.aspx.designer.cs">
+      <DependentUpon>DynamicContent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\DYP-ATU_STUDMARKLIST.Master.cs">
+      <DependentUpon>DYP-ATU_STUDMARKLIST.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\DYP-ATU_STUDMARKLIST.Master.designer.cs">
+      <DependentUpon>DYP-ATU_STUDMARKLIST.Master</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\FetchingData.aspx.cs">
+      <DependentUpon>FetchingData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\FetchingData.aspx.designer.cs">
+      <DependentUpon>FetchingData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GettingStudMarks.aspx.cs">
+      <DependentUpon>GettingStudMarks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GettingStudMarks.aspx.designer.cs">
+      <DependentUpon>GettingStudMarks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Journal\DropAndList.aspx.cs">
+      <DependentUpon>DropAndList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Journal\DropAndList.aspx.designer.cs">
+      <DependentUpon>DropAndList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Journal\MultiViewAndPanel.aspx.cs">
+      <DependentUpon>MultiViewAndPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Journal\MultiViewAndPanel.aspx.designer.cs">
+      <DependentUpon>MultiViewAndPanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Journal\Validations.aspx.cs">
+      <DependentUpon>Validations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Journal\Validations.aspx.designer.cs">
+      <DependentUpon>Validations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Set Image Upload.aspx.cs">
+      <DependentUpon>Set Image Upload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Set Image Upload.aspx.designer.cs">
+      <DependentUpon>Set Image Upload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SirPanel.aspx.cs">
+      <DependentUpon>SirPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SirPanel.aspx.designer.cs">
+      <DependentUpon>SirPanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\StudentML1.aspx.cs">
+      <DependentUpon>StudentML1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\StudentML1.aspx.designer.cs">
+      <DependentUpon>StudentML1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudMarkList.aspx.cs">
+      <DependentUpon>StudMarkList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudMarkList.aspx.designer.cs">
+      <DependentUpon>StudMarkList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudMS1.aspx.cs">
+      <DependentUpon>StudMS1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudMS1.aspx.designer.cs">
+      <DependentUpon>StudMS1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Timer_LOGIC.aspx.cs">
+      <DependentUpon>Timer_LOGIC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Timer_LOGIC.aspx.designer.cs">
+      <DependentUpon>Timer_LOGIC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Trying.aspx.cs">
+      <DependentUpon>Trying.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Trying.aspx.designer.cs">
+      <DependentUpon>Trying.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DYP_Data\ViewStudML1.aspx.cs">
+      <DependentUpon>ViewStudML1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DYP_Data\ViewStudML1.aspx.designer.cs">
+      <DependentUpon>ViewStudML1.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DYP_Data\DYP-ATU_STUDMARKLIST.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Journal\Web.sitemap" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50519</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

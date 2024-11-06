@@ -1,0 +1,4 @@
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\imgmap\imgmap\bin\imgmap.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\imgmap\imgmap\bin\imgmap.pdb
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\imgmap\imgmap\obj\Debug\imgmap.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\imgmap\imgmap\obj\Debug\imgmap.pdb

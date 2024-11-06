@@ -1,0 +1,4 @@
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\upload_iamge_display\upload_iamge_display\bin\upload_iamge_display.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\upload_iamge_display\upload_iamge_display\bin\upload_iamge_display.pdb
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\upload_iamge_display\upload_iamge_display\obj\Debug\upload_iamge_display.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\upload_iamge_display\upload_iamge_display\obj\Debug\upload_iamge_display.pdb

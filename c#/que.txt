@@ -1,0 +1,10 @@
+oop in c#
+create class employee with 3 fun  get empdetail, getinfo accept employee name and basic salary,
+calculate salary da 10 percent on basic salary
+,hra 15 percent on basic salary travelling allounce 20% basic salary
+compute and display 
+
+
+create array of two number write diff methods 1.display prime number from array
+display even number from array
+display odd  numer from array

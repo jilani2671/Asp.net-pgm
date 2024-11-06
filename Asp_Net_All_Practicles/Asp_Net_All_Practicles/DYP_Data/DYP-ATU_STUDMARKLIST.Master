@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DYP_Data/DYP-ATU_STUDMARKLIST.master.cs" Inherits="Asp_Net_All_Practicles.DYP_ATU_STUDMARKLIST" %>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+        .style2
+        {
+            background-color:Black;
+            color:White;
+        }
+        .style3
+        {
+        }
+    </style>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+    <div>
+        <table class="style1">
+            <tr>
+                <td class="style3" align="center" 
+                    style="color: #FFFFFF; background-color: #000000;">
+                    <h1>DYP-ATU</h1>
+                    <h2>Agriculture and Technical University</h2>
+                    <h3>Talsande</h3>
+                   
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="style2" align="center">
+                    <br />
+                    <strong>All rights are reserved @dyp-atu offical Eduction City<br />
+                    </strong><br />
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

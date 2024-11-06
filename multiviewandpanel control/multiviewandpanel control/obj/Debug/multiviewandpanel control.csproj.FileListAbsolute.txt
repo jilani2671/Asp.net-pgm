@@ -1,0 +1,4 @@
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\multiviewandpanel control\multiviewandpanel control\bin\multiviewandpanel control.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\multiviewandpanel control\multiviewandpanel control\bin\multiviewandpanel control.pdb
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\multiviewandpanel control\multiviewandpanel control\obj\Debug\multiviewandpanel control.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\multiviewandpanel control\multiviewandpanel control\obj\Debug\multiviewandpanel control.pdb

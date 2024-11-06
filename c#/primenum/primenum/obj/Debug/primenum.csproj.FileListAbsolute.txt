@@ -1,0 +1,7 @@
+D:\c#\primenum\primenum\bin\Debug\primenum.exe.config
+D:\c#\primenum\primenum\bin\Debug\primenum.exe
+D:\c#\primenum\primenum\bin\Debug\primenum.pdb
+D:\c#\primenum\primenum\obj\Debug\primenum.csproj.AssemblyReference.cache
+D:\c#\primenum\primenum\obj\Debug\primenum.csproj.CoreCompileInputs.cache
+D:\c#\primenum\primenum\obj\Debug\primenum.exe
+D:\c#\primenum\primenum\obj\Debug\primenum.pdb

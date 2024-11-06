@@ -1,0 +1,4 @@
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\calender_control\calender_control\bin\calender_control.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\calender_control\calender_control\bin\calender_control.pdb
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\calender_control\calender_control\obj\Debug\calender_control.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\calender_control\calender_control\obj\Debug\calender_control.pdb

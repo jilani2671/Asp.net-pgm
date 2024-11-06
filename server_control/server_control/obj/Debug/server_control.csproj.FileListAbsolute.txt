@@ -1,0 +1,4 @@
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\server_control\server_control\bin\server_control.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\server_control\server_control\bin\server_control.pdb
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\server_control\server_control\obj\Debug\server_control.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\server_control\server_control\obj\Debug\server_control.pdb

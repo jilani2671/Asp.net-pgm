@@ -1,0 +1,14 @@
+E:\DYP MCA\II SEM\C#.NET\Practicals\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\bin\AllFinalDatabase.dll
+E:\DYP MCA\II SEM\C#.NET\Practicals\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\bin\AllFinalDatabase.pdb
+E:\DYP MCA\II SEM\C#.NET\Practicals\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\AllFinalDatabase.dll
+E:\DYP MCA\II SEM\C#.NET\Practicals\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\AllFinalDatabase.pdb
+E:\DYP MCA\II SEM\C#.NET\Practicals\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\AllFinalDatabase.csprojResolveAssemblyReference.cache
+E:\DYP MCA\II SEM\C#.NET\Practicals\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\RdlCompile.cache
+E:\DYP MCA\II SEM\C#.NET\Practicals\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\RdlCompile.compiled
+C:\Users\pjila\Downloads\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\bin\AllFinalDatabase.dll
+C:\Users\pjila\Downloads\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\bin\AllFinalDatabase.pdb
+C:\Users\pjila\Downloads\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\AllFinalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\pjila\Downloads\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\RdlCompile.cache
+C:\Users\pjila\Downloads\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\RdlCompile.compiled
+C:\Users\pjila\Downloads\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\AllFinalDatabase.dll
+C:\Users\pjila\Downloads\EndEraDatabase\AllFinalDatabase\AllFinalDatabase\obj\Debug\AllFinalDatabase.pdb

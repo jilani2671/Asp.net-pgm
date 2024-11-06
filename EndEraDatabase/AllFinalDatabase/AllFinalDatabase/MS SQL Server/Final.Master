@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="/MS SQL Server/Final.master.cs" Inherits="AllFinalDatabase.Final" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+        .style2
+        {
+            background-color:Black;
+            color:White;
+        }
+        .style3
+        {
+        }
+        #fixedHeader
+        {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="style1">
+            <div id="fixedHeader">
+                <tr>
+                <td class="style3" align="center" 
+                    style="color: #FFFFFF; background-color: #000000;">
+                    <h1>DYP-ATU</h1>
+                    <h2>Agriculture and Technical University</h2>
+                    <h3>Talsande</h3>
+                </td>
+            </tr>
+            </div>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="style2" align="center">
+                    <br />
+                    <strong>@DYP-ATU Talsande. All rights are reserved 2024<br />
+                    </strong><br />
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

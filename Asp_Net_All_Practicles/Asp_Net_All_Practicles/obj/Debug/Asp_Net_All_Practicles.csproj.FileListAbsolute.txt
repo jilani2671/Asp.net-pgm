@@ -1,0 +1,18 @@
+E:\DYP MCA\II SEM\C#.NET\Practicals\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.dll
+E:\DYP MCA\II SEM\C#.NET\Practicals\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.pdb
+E:\DYP MCA\II SEM\C#.NET\Practicals\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.dll
+E:\DYP MCA\II SEM\C#.NET\Practicals\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.pdb
+D:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.dll
+D:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.pdb
+D:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.dll
+D:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.pdb
+G:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.dll
+G:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.pdb
+G:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.dll
+G:\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.pdb
+E:\DYP MCA\II SEM\C#.NET\Practicals\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.csprojResolveAssemblyReference.cache
+C:\Users\pjila\Downloads\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.dll
+C:\Users\pjila\Downloads\Asp_Net_All_Practicles\Asp_Net_All_Practicles\bin\Asp_Net_All_Practicles.pdb
+C:\Users\pjila\Downloads\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.csprojResolveAssemblyReference.cache
+C:\Users\pjila\Downloads\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.dll
+C:\Users\pjila\Downloads\Asp_Net_All_Practicles\Asp_Net_All_Practicles\obj\Debug\Asp_Net_All_Practicles.pdb

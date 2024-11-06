@@ -1,0 +1,4 @@
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\ajaxscriptmanager\ajaxscriptmanager\bin\ajaxscriptmanager.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\ajaxscriptmanager\ajaxscriptmanager\bin\ajaxscriptmanager.pdb
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\ajaxscriptmanager\ajaxscriptmanager\obj\Debug\ajaxscriptmanager.dll
+c:\users\pjila\onedrive\documents\visual studio 2010\Projects\ajaxscriptmanager\ajaxscriptmanager\obj\Debug\ajaxscriptmanager.pdb
